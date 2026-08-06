@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre Mim
 
-Estou em transição de carreira para a área de Tecnologia, com foco em *Desenvolvimento Front-end. Atualmente, sou aluno do programa **DEVstart do SENAI, onde estou me aprofundando no ecossistema **React*.
+Estou em transição de carreira para a área de Tecnologia, com foco em *Desenvolvimento Front-end. Atualmente, sou aluno da Universidade **Estácio.
 
 * 🔭 Atualmente focado em: *React, JavaScript e CSS Avançado*.
 * 🌱 Buscando minha primeira oportunidade como *Desenvolvedor Front-end Junior* ou *Estagiário de TI*.
